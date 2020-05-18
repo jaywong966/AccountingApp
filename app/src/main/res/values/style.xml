@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgflow"> #45d2f6</color>
+    <style name="MyDatePickerDialogTheme" parent="android:Theme.Material.Light.Dialog">
+        <item name="android:colorPrimary">#45d2f6</item>
+        <item name="android:colorPrimaryDark">#45d2f6</item>
+        <item name="android:colorAccent">#45d2f6</item>
+    </style>
+</resources>
